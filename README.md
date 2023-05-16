@@ -6,4 +6,4 @@
 ![Java](https://img.shields.io/badge/Java-★★-white?labelColor=2F2625&logo=coffeescript&style=flat_square&logoColor=white)
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=giovannigaspar&theme=onedark&hide_current_streak=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=giovannigaspar&theme=ambient-gradient&hide_current_streak=true)
