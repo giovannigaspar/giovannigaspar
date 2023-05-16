@@ -6,6 +6,6 @@
 ![Java](https://img.shields.io/badge/Java-★★-white?labelColor=2F2625&logo=coffeescript&style=flat_square&logoColor=white)
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=giovannigaspar&theme=ambient-gradient&hide_current_streak=true)
-
 ![trophy](https://github-trophies.vercel.app/?username=giovannigaspar&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=9&theme=onedark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=giovannigaspar&theme=ambient-gradient&hide_current_streak=true)
