@@ -6,6 +6,4 @@
 ![Java](https://img.shields.io/badge/Java-★★-white?labelColor=2F2625&logo=coffeescript&style=flat_square&logoColor=white)
 
 ## Stats
-<a href="https://github.com/giovannigaspar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannigaspar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,issues,prs,stars" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=giovannigaspar&theme=onedark&hide_current_streak=true)
